@@ -1,0 +1,4 @@
+1,Theodor Mihail,10,12,20
+2,Theodor Mihail,15,16,30
+3,Mihail Kogalniceanu,1,40,45
+13,pATRI,12,23,23
